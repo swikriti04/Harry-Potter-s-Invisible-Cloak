@@ -1,2 +1,4 @@
 # Harry-Potter-s-Invisible-Cloak
-Cloak will make you invisible using opencv
+Had a fantasy of being invisible??
+This code will make you.
+Using opencv and python.
